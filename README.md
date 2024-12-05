@@ -30,4 +30,6 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=3Emran&theme=algolia&currStreakNum=2FD3EB&fire=blue&sideLabels=00FF00)](https://git.io/streak-stats) -->
  
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&theme=dark&layout=compact&align=right&width=60%)](https://github.com/3Emran/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&theme=dark&layout=compact&align=right&width=60%)](https://github.com/3Emran/github-readme-stats)-->
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&theme=dark&layout=compact&cache_seconds=86400)](https://github.com/3Emran/github-readme-stats)
