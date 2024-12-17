@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h2 align="center">Hi 👋, I'm Emran Hossain</h2>
-<h3 align="center">A Passionate Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Emran Hossain</h1>
+<h3 align="center">Competitive Programmer | Problem Solver | Lifelong Learner</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -9,67 +9,82 @@
 
 ---
 
-## 🚀 My GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=3Emran&show_icons=true&count_private=true&theme=radical" alt="Emran's GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <br/>
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=3Emran&theme=radical&hide_border=true&fire=DD2727&ring=5ABCD8" alt="Emran's Streak Stats" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3Emran&show_icons=true&count_private=true&theme=tokyonight" alt="Emran's GitHub Stats" />
 
   <!-- Top Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&theme=radical&layout=compact&cache_seconds=86400" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ My Tech Stacks
-| **Category**      | **Skills**                      |
-|-------------------|--------------------------------|
-| **Languages**     | C | C++                        |
-| **Frontend**      | HTML | CSS | Bootstrap         |
-| **Backend**       | *(Still Exploring...)*         |
-| **Tools/Other**   | Git | Linux                    |
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=3Emran&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🌐 My Handles
+## 🛠️ Tech Stacks
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/Ascending">
-    <img src="https://img.shields.io/badge/HackerRank-121212?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🌐 My Competitive Programming Handles
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Ascending" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://vjudge.net/user/emran_h">
-    <img src="https://img.shields.io/badge/VirtualJudge-121212?style=for-the-badge&logo=virtualbox&logoColor=79740e" alt="Virtual Judge" />
+  <a href="https://vjudge.net/user/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/VirtualJudge-6C757D?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualJudge" />
   </a>
-  <a href="https://www.codechef.com/users/emran_h">
-    <img src="https://img.shields.io/badge/CodeChef-121212?style=for-the-badge&logo=codechef&logoColor=F5F5DC" alt="CodeChef" />
+  <a href="https://www.codechef.com/users/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
 ---
 
-## 🎨 Contributions
-- **My GitHub Contributions**:  
-  <img src="https://streak-stats.demolab.com?user=3Emran&theme=radical&hide_border=true" alt="Contribution Streak" />
+## 💡 About Me
+- 🚀 **Currently Working On**: Solving competitive programming challenges.
+- 📚 **Learning**: Data Structures, Algorithms, and Problem-Solving.
+- 💬 **Ask Me About**: C++, Problem Solving, and Competitive Programming.
+- 🌟 **Passion**: Improving coding skills and solving challenging problems.
+- 🎯 **Goal**: Participate and achieve high ranks in programming contests.
 
 ---
 
-## ✨ About Me
-- 🔭 I’m currently working on **competitive programming problems**.
-- 🌱 I’m learning **Data Structures and Algorithms**.
-- 💬 Ask me about **C++ and Problem Solving**.
-- 📫 Reach me on [HackerRank](https://www.hackerrank.com/profile/Ascending) or [VirtualJudge](https://vjudge.net/user/emran_h).
-
----
-
-<!-- Footer -->
+## 📬 Connect With Me
 <p align="center">
-  <strong>✨ Connect with me!</strong>  
+  <a href="https://www.hackerrank.com/profile/Ascending" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-121212?style=for-the-badge&logo=hackerrank&logoColor=green" />
+  </a>
+  <a href="https://vjudge.net/user/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/VirtualJudge-121212?style=for-the-badge&logo=virtualbox&logoColor=lightblue" />
+  </a>
+  <a href="https://www.codechef.com/users/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-121212?style=for-the-badge&logo=codechef&logoColor=lightyellow" />
+  </a>
 </p>
+
+---
+
+<!-- Footer Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Competitive+Programmer;Problem+Solver;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Competitive+Programmer;Problem+Solver;Lifelong+Learner;Always+Improving" />
 </p>
