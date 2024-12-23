@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Emran Hossain</h1>
-<h3 align="center">Competitive Programmer | Problem Solver | Lifelong Learner</h3>
+<h3 align="center">A CS student passion in Competitive Programming</h3>
 
 <!-- Profile Views -->
 <p align="center">
